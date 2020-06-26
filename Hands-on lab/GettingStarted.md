@@ -7,6 +7,10 @@
  
  > You will see Suffix/DeploymentID value on **Lab Environment** tab, use it whereever you see SUFFIX or DeploymentID in lab steps.
  
+1. You can also open the Lab Guide on Seprate full window by selcting the **Arrow** icon in upper right corner.
+
+   ![](media/lab-guide-open.png "Lab Guide")
+ 
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
@@ -48,4 +52,9 @@
 
    ![](media/resource-groups.png "Resource groups")
    
-1. Confirm you have all resource group as shown in 
+1. Confirm you have all resource group are present as shown below.
+
+   ![](media/resource-groups-02.png "Resource groups")
+   
+1. Now, click on the **Next** from lower left corner of your lab guide page to execute the first exercise.
+
