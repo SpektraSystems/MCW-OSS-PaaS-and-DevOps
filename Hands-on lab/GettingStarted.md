@@ -4,7 +4,7 @@ Once the environment is provisioned, a virtual machine (JumpVM) and lab guide wi
 
  ![environment page.](media/environment.png "Envirnment page")
  
-## Login to the web console
+## Login to Azure Portal
 1. In the JumpVM Open Azure portal shorcut created on desktop.
 
    ![azure portal.](media/azureportal.png "Azure portal")
