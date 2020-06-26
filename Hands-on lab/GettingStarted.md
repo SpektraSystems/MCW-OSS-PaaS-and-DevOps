@@ -1,8 +1,11 @@
 # Getting Started with Lab
 
-Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. To get lab environment details, you can select **Lab Environment** tab. Additionally, The credentials will also be emailed to your email address provided at registration.
+1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the the lab.
+1. To get the lab environment details, you can select **Lab Environment** tab. Additionally, The credentials will also be emailed to your email address provided at registration.
 
- ![environment page.](media/lab-details.png "Lab Envirnment")
+   ![](media/lab-details.png "Lab Envirnment")
+ 
+ > You will see Suffix/DeploymentID value on **Lab Environment** tab, use it whereever you see SUFFIX or DeploymentID in lab steps.
  
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
@@ -33,12 +36,16 @@ Once the environment is provisioned, a virtual machine (JumpVM) and lab guide wi
 1. Now enter the following password and click on **Sign in**.
    * Password: <inject key="AzureAdUserPassword"></inject>
    
-     ![](media/azure-login-enter-password.png "Enter Email")
+     ![](media/azure-login-enter-password.png "Enter Password")
      
 1. If you see the pop-up **Stay Signed in?**, click No
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
-1. If a **Welcome to Microsoft Azure** popup window appears, click Maybe Later to skip the tour.
+1. If a **Welcome to Microsoft Azure** popup window appears, click **Maybe Later** to skip the tour.
    
-1. 
+1. Now you will see Azure Portal Dashboard, click on **Resource groups** to see the resource groups.
+
+   ![](media/resource-groups.png "Resource groups")
+   
+1. Confirm you have all resource group as shown in 
