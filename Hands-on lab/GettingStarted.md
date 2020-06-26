@@ -2,12 +2,12 @@
 
 Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. To get lab environment details, you can select **Lab Environment** tab. Additionally, The credentials will also be emailed to your email address provided at registration.
 
- ![environment page.](media/environment.png "Lab Envirnment")
+ ![environment page.](media/lab-details.png "Lab Envirnment")
  
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![azure portal.](media/azureportal.png "Azure portal")
+   ![azure portal.](media/azureportal.png)
    
 1. When you click on Azure portal, edge browser welcome screen will come up, select **Get started**.
 
