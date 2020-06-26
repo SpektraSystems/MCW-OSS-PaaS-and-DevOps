@@ -28,7 +28,7 @@ Once the environment is provisioned, a virtual machine (JumpVM) and lab guide wi
 1. On **Sign in to Micsoft Azure** tab you will see login screen, in that enter following email/username and then click on **Next**. 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
    
-     [azure portal.](media/azure-login-enter-email.png "Enter Email")
+     ![](media/azure-login-enter-email.png "Enter Email")
      
 1. Now enter the following password and click on **Sign in**.
    * Password: <inject key="AzureAdUserPassword"></inject>
