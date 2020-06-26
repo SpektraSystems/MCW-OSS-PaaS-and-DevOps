@@ -15,7 +15,7 @@ Once the environment is provisioned, a virtual machine (JumpVM) and lab guide wi
    
 1. On next window, click on **Confirm**.
 
-   ![](media/edge-confirm.png "Confirm")
+   ![](./media/edge-confirm.png "Confirm")
    
 1. Now, you can close the popup which is coming up.
 
