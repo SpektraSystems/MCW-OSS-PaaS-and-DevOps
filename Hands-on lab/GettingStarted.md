@@ -56,5 +56,5 @@
 
    ![](media/resource-groups-02.png "Resource groups")
    
-1. Now, click on the **Next** from lower left corner of your lab guide page to execute the first exercise.
+1. Now, click on the **Next** from lower right corner of your lab guide page to execute the first exercise.
 
