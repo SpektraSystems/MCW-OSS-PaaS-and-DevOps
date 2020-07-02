@@ -1,7 +1,7 @@
 # Getting Started with Lab
 
 1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the the lab.
-1. To get the lab environment details, you can select **Lab Environment** tab. Additionally, The credentials will also be emailed to your email address provided at registration.
+1. To get the lab environment details, you can select **Lab Environment** tab. Additionally, the credentials will also be emailed to your email address provided at registration.
 
    ![](media/lab-details.png "Lab Envirnment")
  
